@@ -78,5 +78,4 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/04/2025 | Em Andamento| [MVP](https://) | 
 |02|  21/05/2025| a fazer|[MVP](https://) | 
-|03| 11/06/2025 | a fazer|[MVP](https://) |  
-|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+|03| 11/06/2025 | a fazer|[MVP](https://) |   
