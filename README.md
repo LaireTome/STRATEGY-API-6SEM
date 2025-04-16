@@ -22,7 +22,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Team Member   | Patricia Souza              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-de-lima-moraes-souza-021579188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Patylmsouza)        |
 |  Team Member  | Edmar Soares                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Ronilson Goulart                 |    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/ronilson-goulart-030341241) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RGoulart93)   |
-|  Team Member  | Leonardo Gomes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+|  Team Member  | Leonardo Gomes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gomess) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leogomes51)          |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -43,7 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
+- [x] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
 - [ ] Escolha cores e fontes;
