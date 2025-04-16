@@ -36,10 +36,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
+  * Jira Software
+  * GitHub
+  * SQL
+  * Power BI
+  * Office
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
+  * Jira Software
+  * GitHub
+  * SQL
+  * Power BI
+  * Office
 # Backlog do produto
 
 ## Sprint 1
