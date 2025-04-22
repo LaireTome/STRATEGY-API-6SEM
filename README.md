@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Este projeto tem como objetivo analisar os dados de exportações realizadas pelo Brasil no período de 2022 a 2025, considerando os principais pontos de saída — como estados, cidades, portos e outros — e avaliando os produtos com maior demanda no mercado internacional. Além disso, serão observadas as variações ao longo do tempo, com foco na identificação de padrões sazonais que influenciam o volume e o tipo de produtos exportados.
+Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no período de 2022 a 2025, considerando os principais pontos de saída — como estados, cidades, portos e outros — e avaliando os produtos com maior demanda no mercado internacional. Além disso, serão observadas as variações ao longo do tempo, com foco na identificação de padrões sazonais que influenciam o volume e o tipo de produtos exportados.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
