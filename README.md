@@ -52,10 +52,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Sprint 1
 - [x] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
