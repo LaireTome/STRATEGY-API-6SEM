@@ -51,15 +51,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [x] Criar repositório no Github;
+- [x] Estudar Power BI;
+- [x] Análise de dados em Excel;
+- [x] Estudar o SQL;
+- [ ] Criar relacionamento entre as tabelas em SQL;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Atualizar o projeto.
 
 ## Sprint 2
 - [ ] Documento passo a passo;
