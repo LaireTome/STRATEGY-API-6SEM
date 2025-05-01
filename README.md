@@ -55,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Estudar Power BI;
 - [x] Análise de dados em Excel;
 - [x] Estudar o SQL;
-- [ ] Criar relacionamento entre as tabelas em SQL;
+- [x] Criar relacionamento entre as tabelas em SQL;
 - [ ] Criação do vídeo;
 - [ ] Atualizar o projeto.
 
