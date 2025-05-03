@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no período de 2022 a 2025, considerando os principais pontos de saída — como estados, cidades, portos e outros — e avaliando os produtos com maior demanda no mercado internacional. Além disso, serão observadas as variações ao longo do tempo, com foco na identificação de padrões sazonais que influenciam o volume e o tipo de produtos exportados.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -25,7 +25,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  | Leonardo Gomes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gomess) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leogomes51)          |
 
 # Objetivo do Projeto
-Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no período de 2022 a 2025, considerando os principais pontos de saída — como estados, cidades, portos e outros — e avaliando os produtos com maior demanda no mercado internacional. Além disso, serão observadas as variações ao longo do tempo, com foco na identificação de padrões sazonais que influenciam o volume e o tipo de produtos exportados.
 
 * Coleta de Dado;
 * Organização dos Dados;
