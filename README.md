@@ -35,6 +35,21 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 * Conclusões e Recomendações.
 
 ## Tecnologias Utilizadas
+- Sprint 1
+  - Estratégias Propostas
+  - Ferramenta VSM
+- Sprint 2
+  - Ferramentas de gestão
+  - KPI's
+- Sprint 3
+  - Ferramenta BPMN
+  - Controle de planilhas
+  - Contatos de empresas parceiras
+- Sprint 4
+  - Diagrama BPMN
+  - Novo Layout
+  - Manufatura aditiva
+  - Reciclagem interna
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
