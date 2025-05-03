@@ -27,11 +27,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Objetivo do Projeto
 Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no período de 2022 a 2025, considerando os principais pontos de saída — como estados, cidades, portos e outros — e avaliando os produtos com maior demanda no mercado internacional. Além disso, serão observadas as variações ao longo do tempo, com foco na identificação de padrões sazonais que influenciam o volume e o tipo de produtos exportados.
 
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Coleta de Dado;
+* Organização dos Dados;
+* Análise de Produtos com Maior Demanda;
+* Estudo dos Pontos de Saída;
+* Detecção de Padrões Sazonais;
+* Visualização e Interpretação;
+* Conclusões e Recomendações.
 
 ## Tecnologias Utilizadas
 
