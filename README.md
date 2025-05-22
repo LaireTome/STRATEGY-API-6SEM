@@ -68,7 +68,7 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Criar Jira;
 - [x] Análise de dados em Excel;
 - [x] Criar relacionamento entre as tabelas no mySQL;
-- [x] Importar os dados de 2025 para o mySQL e PowerBI;
+- [x] Importar os dados de 2025 para o mySQL e Power BI;
 - [x] Analisar os dados de 2025 no mySQL;
 - [x] Sprint Review para o ano de 2025;
 - [x] Visualização das URF de 2025 usando Power BI com dados armazenados em MySQL;
@@ -79,7 +79,7 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Atualizar o projeto no Jira.
 
 ## Sprint 2
-- [x] Correção da apresentação em PowerBI do ano de 2025;
+- [x] Correção da apresentação em Power BI do ano de 2025;
 - [x] Importação dos dados de 2022 para o mySQL;
 - [x] Analisar os dados de 2022 no mySQL;
 - [ ] Sprint Review para o ano de 2025;
