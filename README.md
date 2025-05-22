@@ -82,8 +82,8 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Correção da apresentação em Power BI do ano de 2025;
 - [x] Importação dos dados de 2022 para o mySQL;
 - [x] Analisar os dados de 2022 no mySQL;
-- [ ] Sprint Review para o ano de 2025;
-- [ ] Visualização das URF de 2025 usando Power BI com dados armazenados em MySQL;
+- [ ] Sprint Review para o ano de 2022;
+- [ ] Visualização das URF de 2022 usando Power BI com dados armazenados em MySQL;
 - [ ] Visualização das principais cargas movimentadas por estado em 2022, usando Power BI com dados armazenados em MySQL;
 - [ ] Visualização dos principais países de destino das exportações em 2022, usando Power BI com dados armazenados em MySQL;
 - [ ] Análise do fluxo mensal de cargas de 2022, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
