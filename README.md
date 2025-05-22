@@ -65,30 +65,33 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 
 ## Sprint 1
 - [x] Criar repositório no Github;
+- [x] Criar Jira;
 - [x] Estudar Power BI;
 - [x] Análise de dados em Excel;
-- [x] Estudar o SQL;
+- [x] Estudar o mySQL;
 - [x] Criar relacionamento entre as tabelas em SQL;
-- [ ] Criação do vídeo;
-- [ ] Atualizar o projeto.
+- [x] Importar os dados de 2025 para o mySQL;
+- [x] Analisar os dados de 2025 no mySQL;
+- [x] Criar apresentação dos dados para o ano de 2025;
+- [x] Atualizar o projeto no Github;
+- [x] Atualizar o projeto no Jira.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [x] Seguimos com os estudos do mySQL;
+- [x] Correção da apresentação em PowerBI do ano de 2025;
+- [x] Importação dos dados de 2022 para o mySQL;
+- [ ] Analisar os dados de 2022 no mySQL;
+- [ ] Criar apresentação dos dados para o ano de 2022;
+- [ ] Atualizar o projeto no Github;
+- [ ] Atualizar o projeto no Jira.
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Importar os dados 2023 e 2024 para o mySQL;
+- [ ] Analisar os dados de 2023 e 2024 no mySQL;
+- [ ] Criar apresentação dos dados para o ano de 2023 e 2024;
+- [ ] Criação do Vídeo;
+- [ ] Finalizar o projeto no Github;
+- [ ] Finalizar o projeto no Jira.
       
 
 # Registro das Sprints
@@ -96,5 +99,5 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/04/2025 | Concluído| [MVP](https://) | 
-|02|  21/05/2025| Em andamento|[MVP](https://) | 
-|03| 11/06/2025 | a fazer|[MVP](https://) |   
+|02|  28/05/2025| Em andamento|[MVP](https://) | 
+|03| 18/06/2025 | a fazer|[MVP](https://) |   
