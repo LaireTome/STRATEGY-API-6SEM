@@ -82,22 +82,22 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Correção da apresentação em Power BI do ano de 2025;
 - [x] Importação dos dados de 2022 para o mySQL;
 - [x] Analisar os dados de 2022 no mySQL;
-- [ ] Sprint Review para o ano de 2022;
-- [ ] Visualização das URF de 2022 usando Power BI com dados armazenados em MySQL;
-- [ ] Visualização das principais cargas movimentadas por estado em 2022, usando Power BI com dados armazenados em MySQL;
-- [ ] Visualização dos principais países de destino das exportações em 2022, usando Power BI com dados armazenados em MySQL;
-- [ ] Análise do fluxo mensal de cargas de 2022, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
-- [ ] Atualizar o projeto no Github;
-- [ ] Atualizar o projeto no Jira.
+- [x] Sprint Review para o ano de 2022;
+- [x] Visualização das URF de 2022 usando Power BI com dados armazenados em MySQL;
+- [x] Visualização das principais cargas movimentadas por estado em 2022, usando Power BI com dados armazenados em MySQL;
+- [x] Visualização dos principais países de destino das exportações em 2022, usando Power BI com dados armazenados em MySQL;
+- [x] Análise do fluxo mensal de cargas de 2022, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
+- [x] Atualizar o projeto no Github;
+- [x] Atualizar o projeto no Jira.
       
 ## Sprint 3
-- [ ] Importar os dados 2023 e 2024 para o mySQL;
-- [ ] Analisar os dados de 2023 e 2024 no mySQL;
-- [ ] Sprint Review para o ano de 2023 e 2024;
-- [ ] Visualização das URF de 2023 e 2024 usando Power BI com dados armazenados em MySQL;
-- [ ] Visualização das principais cargas movimentadas por estado em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
-- [ ] Visualização dos principais países de destino das exportações em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
-- [ ] Análise do fluxo mensal de cargas de 2023 e 2024, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
+- [x] Importar os dados 2023 e 2024 para o mySQL;
+- [x] Analisar os dados de 2023 e 2024 no mySQL;
+- [x] Sprint Review para o ano de 2023 e 2024;
+- [x] Visualização das URF de 2023 e 2024 usando Power BI com dados armazenados em MySQL;
+- [x] Visualização das principais cargas movimentadas por estado em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
+- [x] Visualização dos principais países de destino das exportações em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
+- [x] Análise do fluxo mensal de cargas de 2023 e 2024, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
 - [ ] Criação do Vídeo;
 - [ ] Finalizar o projeto no Github;
 - [ ] Finalizar o projeto no Jira.
