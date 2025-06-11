@@ -98,7 +98,6 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Visualização das principais cargas movimentadas por estado em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
 - [x] Visualização dos principais países de destino das exportações em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
 - [x] Análise do fluxo mensal de cargas de 2023 e 2024, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
-- [ ] Criação do Vídeo;
 - [ ] Finalizar o projeto no Github;
 - [ ] Finalizar o projeto no Jira.
       
