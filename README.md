@@ -108,5 +108,5 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/04/2025 | Concluído| [MVP](https://) | 
-|02|  28/05/2025| Em andamento|[MVP](https://) | 
-|03| 18/06/2025 | a fazer|[MVP](https://) |   
+|02|  28/05/2025| Concluído|[MVP](https://) | 
+|03| 18/06/2025 | Em andamento|[MVP](https://) |   
