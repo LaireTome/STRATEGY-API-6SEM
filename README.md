@@ -66,39 +66,29 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 ## Sprint 1 - FOCO EM DADOS DE 2025
 - [x] Criar repositório no Github;
 - [x] Criar Jira;
-- [x] Análise de dados em Excel;
 - [x] Criar relacionamento entre as tabelas no MySQL;
 - [x] Importar os dados de 2025 para o MySQL e Power BI;
-- [x] Analisar os dados de 2025 no MySQL;
 - [x] Sprint Review para o ano de 2025;
 - [x] Visualização das URF de 2025 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2025, usando Power BI com dados armazenados em MySQL;
 - [x] Visualização dos principais países de destino das exportações em 2025, usando Power BI com dados armazenados em MySQL;
 - [x] Análise do fluxo mensal de cargas de 2025, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
-- [x] Atualizar o projeto no Github;
-- [x] Atualizar o projeto no Jira.
 
 ## Sprint 2 - FOCO EM DADOS DE 2022
 - [x] Correção da apresentação em Power BI do ano de 2025;
-- [x] Importação dos dados de 2022 para o MySQL;
-- [x] Analisar os dados de 2022 no MySQL;
 - [x] Sprint Review para o ano de 2022;
 - [x] Visualização das URF de 2022 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2022, usando Power BI com dados armazenados em MySQL;
 - [x] Visualização dos principais países de destino das exportações em 2022, usando Power BI com dados armazenados em MySQL;
 - [x] Análise do fluxo mensal de cargas de 2022, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL.
-- [x] Atualizar o projeto no Github;
-- [x] Atualizar o projeto no Jira.
       
 ## Sprint 3 - FOCO EM DADOS DE 2023 E 2024
-- [x] Importar os dados de 2023 e 2024 para o MySQL;
-- [x] Analisar os dados de 2023 e 2024 no MySQL;
 - [x] Sprint Review para o ano de 2023 e 2024;
 - [x] Visualização das URF de 2023 e 2024 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
 - [x] Visualização dos principais países de destino das exportações em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
 - [x] Análise do fluxo mensal de cargas de 2023 e 2024, com identificação de sazonalidades, usando Power BI com dados armazenados em MySQL;
-- [ ] Criar um video de apresentação;
+- [ ] Apresentar Video;
 - [ ] Finalizar o projeto no Github;
 - [ ] Finalizar o projeto no Jira.
       
@@ -109,7 +99,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/04/2025 | Concluído| [MVP](https://) | 
 |02|  28/05/2025| Concluído|[MVP](https://) | 
-|03| 18/06/2025 | Em andamento|[MVP](https://) |   
+|03| 18/06/2025 | Concluído|[MVP](https://) |   
 
 # Conclusão
 A realização do projeto STRATEGY API proporcionou uma experiência prática valiosa na aplicação da metodologia ágil SCRUM para a análise de dados de exportações brasileiras. Por meio da organização em sprints, a equipe conseguiu dividir o trabalho em etapas claras e objetivas, promovendo a colaboração, a autonomia e a entrega contínua de valor ao longo do desenvolvimento.
