@@ -1,7 +1,7 @@
 # STRATEGY - API 6º Semestre: Análise de Exportações Brasileiras com Metodologia Ágil (SCRUM)
 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto desenvolvido com base na metodologia ágil SCRUM, com o objetivo de estimular a proatividade, autonomia, colaboração e a entrega de resultados por parte dos estudantes envolvidos.
 
 # Índice
 * [Projeto](#projeto-template)
@@ -26,7 +26,7 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 
 # Objetivo do Projeto
 
-* Coleta de Dado;
+* Coleta de Dados;
 * Organização dos Dados;
 * Análise de Produtos com Maior Demanda;
 * Estudo dos Pontos de Saída;
@@ -40,7 +40,7 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
   - Ferramenta VSM
 - Sprint 2
   - Ferramentas de gestão
-  - KPI's
+  - KPIs
   - Ferramenta BPMN
   - Controle de planilhas
   - Contatos de empresas parceiras
@@ -63,13 +63,13 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 
 # Backlog do produto
 
-## Sprint 1
+## Sprint 1 - FOCO EM DADOS DE 2025
 - [x] Criar repositório no Github;
 - [x] Criar Jira;
 - [x] Análise de dados em Excel;
-- [x] Criar relacionamento entre as tabelas no mySQL;
-- [x] Importar os dados de 2025 para o mySQL e Power BI;
-- [x] Analisar os dados de 2025 no mySQL;
+- [x] Criar relacionamento entre as tabelas no MySQL;
+- [x] Importar os dados de 2025 para o MySQL e Power BI;
+- [x] Analisar os dados de 2025 no MySQL;
 - [x] Sprint Review para o ano de 2025;
 - [x] Visualização das URF de 2025 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2025, usando Power BI com dados armazenados em MySQL;
@@ -78,10 +78,10 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Atualizar o projeto no Github;
 - [x] Atualizar o projeto no Jira.
 
-## Sprint 2
+## Sprint 2 - FOCO EM DADOS DE 2022
 - [x] Correção da apresentação em Power BI do ano de 2025;
-- [x] Importação dos dados de 2022 para o mySQL;
-- [x] Analisar os dados de 2022 no mySQL;
+- [x] Importação dos dados de 2022 para o MySQL;
+- [x] Analisar os dados de 2022 no MySQL;
 - [x] Sprint Review para o ano de 2022;
 - [x] Visualização das URF de 2022 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2022, usando Power BI com dados armazenados em MySQL;
@@ -90,9 +90,9 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 - [x] Atualizar o projeto no Github;
 - [x] Atualizar o projeto no Jira.
       
-## Sprint 3
-- [x] Importar os dados 2023 e 2024 para o mySQL;
-- [x] Analisar os dados de 2023 e 2024 no mySQL;
+## Sprint 3 - FOCO EM DADOS DE 2023 E 2024
+- [x] Importar os dados de 2023 e 2024 para o MySQL;
+- [x] Analisar os dados de 2023 e 2024 no MySQL;
 - [x] Sprint Review para o ano de 2023 e 2024;
 - [x] Visualização das URF de 2023 e 2024 usando Power BI com dados armazenados em MySQL;
 - [x] Visualização das principais cargas movimentadas por estado em 2023 e 2024, usando Power BI com dados armazenados em MySQL;
