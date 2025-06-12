@@ -1,4 +1,4 @@
-# STRATEGY-API-6SEM
+# STRATEGY - API 6º Semestre: Análise de Exportações Brasileiras com Metodologia Ágil (SCRUM)
 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
