@@ -116,3 +116,6 @@ A realização do projeto STRATEGY API proporcionou uma experiência prática va
 A utilização de ferramentas como Power BI, MySQL, Jira e GitHub foi fundamental para estruturar e visualizar grandes volumes de dados de maneira eficiente, permitindo identificar as URF que processam as exportações, as principais cargas movimentadas por estado, identificar os principais Países de destino das exportações e analisar o fluxo mensal, identificando padrões relevantes, como a sazonalidade das exportações.
 
 Além do aprimoramento técnico, o projeto também contribuiu para o desenvolvimento de habilidades interpessoais, como comunicação, gestão de tempo e resolução de problemas em equipe. A integração entre teoria e prática, proporcionada por esse trabalho, reforça a importância do uso de metodologias ágeis no contexto educacional e profissional, preparando os estudantes para os desafios reais do mercado de trabalho.
+
+# Referências
+Gov.BR - https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
