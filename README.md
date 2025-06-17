@@ -97,9 +97,9 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 30/04/2025 | Concluído| [MVP](https://) | 
-|02|  28/05/2025| Concluído|[MVP](https://) | 
-|03| 18/06/2025 | Concluído|[MVP](https://) |   
+|01 JIRA| 30/04/2025 | Concluído| [MVP]([https://](https://www.youtube.com/watch?v=NG_Es1ZRGvw)) | 
+|02 POWER BI|  28/05/2025| Concluído|[MVP](https://) | 
+|03 MySQL| 18/06/2025 | Concluído|[MVP](https://) |   
 
 # Conclusão
 A realização do projeto STRATEGY API proporcionou uma experiência prática valiosa na aplicação da metodologia ágil SCRUM para a análise de dados de exportações brasileiras. Por meio da organização em sprints, a equipe conseguiu dividir o trabalho em etapas claras e objetivas, promovendo a colaboração, a autonomia e a entrega contínua de valor ao longo do desenvolvimento.
