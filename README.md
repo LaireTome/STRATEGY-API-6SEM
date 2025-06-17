@@ -97,7 +97,7 @@ Neste projeto vamos analisar os dados de exportações realizadas pelo Brasil no
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 JIRA| 30/04/2025 | Concluído||[MVP](https://) | 
+|01 JIRA| 30/04/2025| Concluído|[MVP](https://) | 
 |02 POWER BI|  28/05/2025| Concluído|[MVP](https://) | 
 |03 MySQL| 18/06/2025 | Concluído|[MVP](https://) |   
 
